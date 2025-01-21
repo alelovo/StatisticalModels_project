@@ -2,7 +2,7 @@
 
 ![alt text](image.png)
 
-I suggest reading the documents in this order:
+**I suggest reading the documents in this order:**
 
 1) START 
 
